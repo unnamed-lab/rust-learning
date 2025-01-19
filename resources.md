@@ -9,6 +9,7 @@
 
 ## Tutorials and Courses
 
+- [Will Velida](https://www.youtube.com/@willvelida)
 - [Rustlings](https://github.com/rust-lang/rustlings)
 - [Exercism: Rust Track](https://exercism.org/tracks/rust)
 - [Rust Crash Course by freeCodeCamp](https://www.youtube.com/watch?v=zF34dRivLOw)
